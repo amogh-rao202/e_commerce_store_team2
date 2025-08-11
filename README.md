@@ -63,8 +63,4 @@ Amogh.Rao
 
 
 
-
-
-[Insert license information]
-
 This README.md file provides a comprehensive overview of the Bookstore Login System project, including its features, tech stack, project structure, and testing instructions. The file is designed to be easy to read and understand, making it a valuable resource for developers and users alike.
